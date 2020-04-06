@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     >
-    <io.mattcarroll.hover.TabSelectorView
+
+    <br.com.hover.hover.TabSelectorView
         android:id="@+id/tabselector"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
