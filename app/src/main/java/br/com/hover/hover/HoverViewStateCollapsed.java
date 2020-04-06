@@ -23,6 +23,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.recyclerview.widget.ListUpdateCallback;
 
+
 import br.com.hover.R;
 import br.com.hover.hover.BaseHoverViewState;
 import br.com.hover.hover.FloatingTab;
